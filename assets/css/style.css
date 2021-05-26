@@ -107,7 +107,7 @@ p {
 	text-align:center;
 	background-position: center center;
 	min-height: 1000px;
-    min-width: 950px;
+    /* min-width: 950px; */
     max-width: 100%;
 	background-position-x: 70%;
     -webkit-background-size: 100%;
@@ -145,7 +145,7 @@ p {
 
 #about-section {
     background-color: #FAFAFA;
-    min-width: 950px;
+    /* min-width: 950px; */
 }
 
 
@@ -209,7 +209,7 @@ color: #FFFFFF;
    CONTACT SECTION
    ========================================================================== */
 #products-section {
-    min-width: 950px;
+    /* min-width: 950px; */
 }
 
 #contact-section {
